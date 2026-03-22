@@ -25,7 +25,7 @@ Now let's talk about this YSWS, shall we ?
 
 ### "Gurl what am I supposed to do ??"    
 
-I'm glad you asked Fatima, you'll find in [this](not-existant-yet.com) repo the basic models you will HAVE TO use as a base for your page.  
+I'm glad you asked Fatima, you'll find in [this](https://github.com/mh-wah/yoursphere-models) repo the basic models you will HAVE TO use as a base for your page.  
 As you may have guessed (or if you just looked at the files) these models are blank, boring and lifeless (like most of portfolios, no shade (actually yes shade)).    
 You're supposed to take the files and edit them, and this involves (take notes):  
 - add your own unique aesthetic/chaos in the background, with stickers, art, a song made with a Wario Ware game and recorded with a dusty microphone or just a basic wii theme (booooriiing (jk (I'm actually kidding wii theme songs are nice but if you make your own song you get some extra *points de coolitude*))),  
