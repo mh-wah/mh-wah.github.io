@@ -51,7 +51,10 @@ You shall work on YourSphere following these step / this process:
 > - some text, and by "some" I mean this is YourSphere, put as much text as you but not 98.8% but as much as you want (make it cool for you to read and be yourself !)
 > - some posts, i.e. text and an/multiple image(s) in a post looking design (that you choose and design), at least 4 of those !
 > - at least one unique thing you created that is not mentionned here, because you will create basically everything of your page but we (me and I) want you to do something pretty much unprecedented and unexpected and put it in your page. For the n-th time, be creative !  
-Once you're "done" (for this first step at least), it going to be more technical to earn/unlock more badges. Everytime you will complete one of the tasks shared on the MySphere Member Dashboard you will earn a certain amount of badges, the MSMD will be shared in the channel [#mysphere](https://hackclub.enterprise.slack.com/archives/C0AN449805A) created for this event so stay tuned 💥  
+
+Once you're "done" (for this first step at least), it going to be more technical to earn/unlock more badges.  
+Second step: keep building !  
+Everytime you will complete one of the tasks shared on the MySphere Member Dashboard you will earn a certain amount of badges, the MSMD will be shared in the channel [#mysphere](https://hackclub.enterprise.slack.com/archives/C0AN449805A) created for this event so stay tuned 💥  
 These badges are not a currency ! Once they're earned, they're earned.  
 Now when I said that "this event will work pretty much like the café event while being different", I'm going to make it make sense.
 
