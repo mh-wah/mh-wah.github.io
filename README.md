@@ -85,7 +85,7 @@ Not done yet but will be done™
 Gurl it could be as random as the color of the hijab you wore to take out the trash or your VSCode theme and extensions. It could be a fun fact about your favorite game or the cereal type you're the biggest hater on this God-given Earth.
 [This](not-existant-yet.com) website should help you find things to share, and it's open source and anyone can add their suggestions. -->
 
-### "Why are you putting a space before explamation marks and interrogation marks ?"
+### "Why are you putting a space before explamation marks and question marks ?"
 
 That's how French people do ?? Anyways, NEXT QUESTION.
 
